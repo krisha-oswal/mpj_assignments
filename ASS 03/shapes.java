@@ -5,7 +5,7 @@ class Shapes {
     // Instance variables
     double length, breadth, radius;
 
-    // 🔹 Constructor Overloading
+    //  Constructor Overloading
 
     // Rectangle
     Shapes(double length, double breadth) {
@@ -23,7 +23,7 @@ class Shapes {
         length = breadth = radius = 0;
     }
 
-    // 🔹 Method Overloading
+    //  Method Overloading
 
     // Area of Rectangle
     double area(double length, double breadth) {
