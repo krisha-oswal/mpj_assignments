@@ -12,7 +12,7 @@ public class mainhillstations {
 
     public static void main(String[] args) {
 
-        // 🔥 Base class reference, subclass objects
+        //  Base class reference, subclass objects
         hillstations h;
 
         // Manali
