@@ -1,3 +1,13 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package lca_02;
+
+/**
+ *
+ * @author kriii
+ */
 import java.io.*;
 import java.util.*;
 
@@ -43,7 +53,7 @@ class Customer {
 
 //  Main Class
 
-public class BankingSystem {
+public class Ass4 {
 
     static Customer customer = null;
 
