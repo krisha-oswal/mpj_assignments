@@ -1,0 +1,13 @@
+<web-app>
+
+  <servlet>
+    <servlet-name>AddEmployee</servlet-name>
+    <servlet-class>AddEmployeeServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>AddEmployee</servlet-name>
+    <url-pattern>/addEmployee</url-pattern> 
+  </servlet-mapping>
+
+</web-app>
